@@ -15,7 +15,6 @@
 		B75028BC1C5A3F94000EB3CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B75028BB1C5A3F94000EB3CF /* Assets.xcassets */; };
 		B75028BF1C5A3F94000EB3CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B75028BD1C5A3F94000EB3CF /* LaunchScreen.storyboard */; };
 		B75028CA1C5A3F94000EB3CF /* DevbeersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B75028C91C5A3F94000EB3CF /* DevbeersTests.swift */; };
-		D0EC30BE90ED779C5F34ECE1 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89B1B33BFABE2579706E6E3E /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,7 +61,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0EC30BE90ED779C5F34ECE1 /* libPods.a in Frameworks */,
 				012A19B135BB1E6AAA3ED8B1 /* Pods_DevbeersTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
